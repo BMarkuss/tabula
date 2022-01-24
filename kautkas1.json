@@ -1,0 +1,30 @@
+{
+"headers": [
+    "Vārds",
+    "Vecums",
+    "Pilsēta"
+],
+
+"rows": [
+    [
+        "Niks",
+        "14",
+        "Ventspils"
+    ],
+    [
+        "Estere",
+        "16",
+        "Valmiera"
+    ],
+    [
+        "Antra",
+        "25",
+        "Cēsis"
+    ],
+    [
+        "Māris",
+        "23",
+        "Daugavpils"
+    ]
+]
+}
